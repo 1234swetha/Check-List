@@ -1,0 +1,59 @@
+body{
+background-color:#FFB6C1;
+}
+h1{
+color:black;
+text-align:center;
+}
+.sec
+{
+margin-left:460px;
+width:50%;
+margin-top:50px;
+}
+input[type=text], select {
+  width: 60%;
+  padding: 10px 20px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=submit],select{
+margin-left:150px;
+}
+.card {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #000000;
+  border-radius: 2px;
+}
+.fa-trash{
+width:10%;
+float:right;
+margin-top:-80px;
+}
+.fa-square{
+width:10%;
+}
+
+
+.btn{
+    width:5%;
+    padding:6px 5px;
+
+}
+.fa-circle-xmark{
+
+}
+input[name=task], select {
+  width: 10%;
+  padding: 6px 10px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.card1{
+margin-top:20px;
+}
